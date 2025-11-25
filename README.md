@@ -44,13 +44,8 @@ This project involves creating a port scanning tool used to probe a target syste
 
 ## Screenshots of project
 
-### Using the target IP address to run the port scanner
-<img width="1524" height="1096" alt="CleanShot 2025-11-25 at 13 39 14@2x" src="https://github.com/user-attachments/assets/28d98754-312f-4f13-a6e6-26b5c4e39e87" />
-<img width="759" height="539" alt="CleanShot 2025-11-25 at 13 40 30" src="https://github.com/user-attachments/assets/3d3dd832-f204-4097-bef6-81d5d7998c29" />
-<img width="741" height="556" alt="CleanShot 2025-11-25 at 13 40 50" src="https://github.com/user-attachments/assets/d1e059f7-2acb-421b-a432-7560ef948aed" />
+### Go to the directory where the script is located in
+<img src="https://i.imgur.com/5vD3z4A.png" height="80%" width="80%" />
+<br />
+<br />
 
-
-### Using target Hostname to run the port scanner
-<img width="736" height="557" alt="CleanShot 2025-11-25 at 13 41 41" src="https://github.com/user-attachments/assets/14f38ea3-1314-453e-8d71-4f83685f1a88" />
-<img width="739" height="545" alt="CleanShot 2025-11-25 at 13 42 05" src="https://github.com/user-attachments/assets/6111c91f-b24a-4a75-aa63-49ae20af8986" />
-<img width="749" height="571" alt="CleanShot 2025-11-25 at 13 42 16" src="https://github.com/user-attachments/assets/c08809c8-c71e-404a-ab80-486a32449d05" />
