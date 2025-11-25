@@ -49,3 +49,20 @@ This project involves creating a port scanning tool used to probe a target syste
 <br />
 <br />
 
+### Run the script in python3 and key in the ip address you would like to scan
+<img src="https://i.imgur.com/Ahl7ebz.png" height="80%" width="80%" />
+<br />
+<br />
+
+### Key in the port range you would like to scan and the range of IPs to discover live hosts
+<img src="https://i.imgur.com/t2YRUl3.png" height="80%" width="80%" />
+<br />
+<br />
+
+### Results of the scan and being saved to a .txt file for analysis
+<img src="https://i.imgur.com/10H1IF7.png" height="80%" width="80%" />
+<br />
+<br />
+
+### Sample of scan_results.txt 
+<img src="https://i.imgur.com/2XjxJF7.png" height="80%" width="80%" />
